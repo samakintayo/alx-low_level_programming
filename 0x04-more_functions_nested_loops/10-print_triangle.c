@@ -23,7 +23,7 @@ void print_triangle(int size)
 			}
 
 
-			for (z = 0; z <= x; z++;)
+			for (z = 0; z <= x; z++)
 			{
 				_putchar(35);
 			}
