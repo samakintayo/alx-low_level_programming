@@ -2,15 +2,15 @@
 
 /**
  * _isdigit - Check is a character is a digit
- * @c: character to be checked
+ * @x: character to be checked
  * Return: 1 for a character that will be a digit or zero for any thing else
  */
-int _isdigit(int c)
+int _isdigit(int x)
 {
-	if (c >= 0 && c <= 9)
+	if (x >= 48 && x <= 57)
 	{
 		return (1);
 	}
-	else
-		return (0);
+
+	return (0);
 }
