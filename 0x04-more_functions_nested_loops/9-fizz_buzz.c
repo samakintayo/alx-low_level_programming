@@ -4,7 +4,7 @@
 /**
  * main -  print a Fizz Buzz
  *
- * Return: Always 0 9(Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
