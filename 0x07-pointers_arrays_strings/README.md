@@ -7,3 +7,4 @@ a function that locates a substring
 a function that prints the chessboard
 a function that prints the sum of the two diagonals of a square matrix if integers
 The line of life is a ragged diagonal between duty and desire
+My primary goal of hacking was the intellectual curiosity, the seduction of adventure
