@@ -68,8 +68,8 @@ char **strtow(char *str)
 			}
 			strDup[i][m] = '\0';
 			i++;
-			}
-			str++;
+		}
+		str++;
 	}
 	strDup[i] = '\0';
 	return (strDup);
